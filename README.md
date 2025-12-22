@@ -1,10 +1,5 @@
 # ¡Hola! Soy Adrián Jiménez 👋
 
-<p align="center">
-  <img src="https://view-counter.api.fnkr.net/badge/views/Adrian708709.svg" alt="Views">
-  <img src="https://img.shields.io/github/followers/Adrian708709?label=Followers&style=flat-square" alt="Followers">
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mí
