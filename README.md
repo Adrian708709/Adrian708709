@@ -1,16 +1,23 @@
-## Hi there 👋
+### ¡Hola! Soy Adrián Jiménez 👋
 
-<!--
-**Adrian708709/Adrian708709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Tecnología de la Información** con base en Costa Rica. Me apasiona crear soluciones funcionales en el backend, combinando mi formación técnica del INA con mis estudios universitarios actuales.
 
-Here are some ideas to get you started:
+Actualmente, estoy enfocado en profundizar mis conocimientos en el ecosistema de **PHP** y el framework **Laravel**, buscando oportunidades para aplicar mis habilidades en proyectos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Tech Stack & Herramientas
+* **Backend:** PHP, Laravel (Eloquent ORM, MVC)
+* **Bases de Datos:** MySQL / SQL
+* **Herramientas:** Git, Composer, VS Code
+* **Idiomas:** Español (Nativo), Inglés (Intermedio - TEC)
+
+---
+
+#### 🌱 Actualmente aprendiendo
+* Mejores prácticas en desarrollo de APIs RESTful con Laravel.
+* Integración de pruebas automatizadas (Testing).
+
+---
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](Aquí-iría-tu-enlace-de-LinkedIn-cuando-esté-listo)
