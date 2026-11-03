@@ -1,47 +1,57 @@
-# Hi there! I'm Adrián Jiménez 👋
+<h1 align="center">Hi, I'm Adrián Jiménez 👋</h1>
 
----
-
-### 👨‍💻 About Me
-I am a technology enthusiast based in **Costa Rica 🇨🇷**. I am **currently an IT Student**, combining my academic journey with a strong technical background from **UTN**. This path has allowed me to develop a hybrid profile, bridging the gap between software development and User Experience (UX) design.
-
-- 🎓 **Current Status:** IT Student focused on modern software architectures.
-- 🚀 **Focus:** Building robust web applications with **Laravel** and scalable solutions.
-- 🤖 **Interest:** Passionate about **Artificial Intelligence** and its practical applications.
-- 🎨 **Design:** I use **Figma** to prototype and visualize ideas before bringing them to life through code.
-- 🎯 **Current Goal:** Delivering value to real-world projects while growing as a Full Stack Developer.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Backend & Logic**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
-
-#### **Frontend & Design**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrian708709&show_icons=true&theme=tokyonight&count_private=true" alt="Adrian's Stats" />
+  <b>IT student · Full-stack developer · Costa Rica 🇨🇷</b><br/>
+  I build web, mobile and desktop apps with Laravel, TypeScript and React, and I'm into aviation ✈️
 </p>
 
 ---
 
-### 📫 Let's Connect:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](AQUÍ_VA_TU_LINK_DE_LINKEDIN)
+### 👨‍💻 About me
+
+- 🎓 IT student with a technical background from **UTN**, combining software development with UX design.
+- 🚀 Most of my work is in **Laravel** (Livewire, Filament) and **TypeScript** (Next.js, React, React Native).
+- ✈️ I build the tools for **[VATCA](https://vatca.org)**, the VATSIM Central America division: website, training center, Discord bot and ACARS client.
+- 🎨 I prototype in **Figma** before writing code.
+- 🤖 Interested in **AI** and how to apply it to real projects.
+- 🎯 Goal: ship software people actually use while I grow as a full-stack developer.
 
 ---
-*"Code is like humor. When you have to explain it, it’s bad."*
+
+### 🔨 What I'm building
+
+| Project | What it is | Stack |
+|---|---|---|
+| ✈️ **[VATCA Platform](https://vatca.org)** | Public website and Training Center for VATSIM Central America, with one VATSIM Connect login, roles, Spanish/English and a staff panel | Laravel · Livewire · Filament · Tailwind |
+| 🛫 **ACARS client** | Desktop app that connects to the flight simulator through SimConnect and tracks the flight on a live map | Electron · React · TypeScript · Leaflet |
+| 🤖 **VATCA bot** | Discord bot for the VATCA community, with scheduled jobs and API integrations | Node.js · discord.js · Express |
+| 🚌 **MobiCR** | Mobile app with bus schedules, fares and next departures for Costa Rica's Zona Norte | React Native · Expo · TypeScript |
+| 🧾 **POS & inventory** | Point of sale, inventory with kardex and 80 mm thermal receipts for a local store | Next.js · React · Supabase (PostgreSQL) |
+
+<sub>Most of these repositories are private. Ask me if you want a walkthrough.</sub>
+
+---
+
+### 🛠️ Tech stack
+
+| Area | Technologies |
+|---|---|
+| **Web** | <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,nodejs,tailwind,html,css" height="40" alt="PHP, Laravel, TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, HTML, CSS" /> |
+| **Mobile & desktop** | <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio,electron" height="40" alt="React Native, Kotlin, Android Studio, Electron" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" height="40" alt="MySQL, PostgreSQL, Supabase" /> |
+| **Other languages** | <img src="https://skillicons.dev/icons?i=python,java,cs" height="40" alt="Python, Java, C#" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" height="40" alt="Git, GitHub, VS Code, Figma, Vite" /> |
+
+---
+
+### 📈 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adrian708709/Adrian708709/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adrian708709/Adrian708709/output/github-snake.svg" />
+  <img alt="My contribution graph, animated as a snake" src="https://raw.githubusercontent.com/Adrian708709/Adrian708709/output/github-snake.svg" />
+</picture>
+
+---
+
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." · Cory House</i></p>
